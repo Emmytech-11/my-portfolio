@@ -145,35 +145,35 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Isaac has proven to be one of the best, creative and passionate Software developers in Fiverr",
-    name: "James Kelvin",
+      "Emmanuel has proven to be one of the best, creative and passionate Software developers in Fiverr",
+    name: "Adams Chioma",
     designation: "Digital Marketer",
     company: "Headstart",
     image: avatar,
   },
   {
     testimonial:
-      "After Isaac optimized our website, we gained more traffic by 70%. We can't thank him enough!",
-    name: "Mercy Dave",
+      "After Emmanuel optimized our website, we gained more traffic by 70%. We can't thank him enough!",
+    name: "Matthew Onos",
     designation: "Product Manager",
-    company: "Osetty",
+    company: "Great Konsult",
     image: avatar,
   },
 ];
 
 const projects = [
   {
-    name: "Dateme",
+    name: "Mikes Gym",
     description:
-      "Dateme is a web dating application that allows users from different countries or continent to find love, make friends and meet new people. It makes it easier to find soul mate ",
+      "Mikes Gym is a fitness zone, that enhance human fitness through various gymnastic exercise with equipped gym instrument and professional gym instructors ",
     tags: [
       {
         name: "react",
-        color: "blue-text-gradient",
+        color: "purple-text-gradient",
       },
       {
         name: "stripe",
-        color: "green-text-gradient",
+        color: "orange-text-gradient",
       },
       {
         name: "styled-components",
@@ -182,7 +182,7 @@ const projects = [
     ],
     image: dateme,
     source_code_link: "",
-    live_demo_link: "http://dateme.onrender.com",
+    live_demo_link: "https://emmy-gym.vercel.app/",
   },
   {
     name: "E-Shop",
